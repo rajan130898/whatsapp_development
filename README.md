@@ -1,2 +1,2 @@
 # whatsapp_development
-this repository used to develop a chat application
+this repository used to develop a chat applications
